@@ -1,6 +1,6 @@
 import styles from '../../../styles/mealdb.module.css'
 import Head from 'next/head'
-import mealData from './meal-data'
+import mealData from '../../../public/meal-data'
 import { useState } from 'react'
 
 export default function MealSearch() {

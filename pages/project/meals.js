@@ -1,5 +1,5 @@
 import styles from '../../styles/Meal.module.css'
-import meals from './meal_data'
+import meals from '../../public/meal_data'
 
 export default function MealsPage() {
     console.log("meals",meals);
