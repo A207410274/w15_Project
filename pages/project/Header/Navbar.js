@@ -15,6 +15,9 @@ export default function Navbar() {
                     <li className={style.nav__listItem}>
                         <Link href="/">Home</Link>
                     </li>
+                    <li className={style.nav__listItem}>
+                        <Link href="/project/Search">W16 Search</Link>
+                    </li>
                     
                 </ul>
             </nav>
